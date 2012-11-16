@@ -1,1 +1,0 @@
-Magma TNT is a small forge mod that does one simple thing: making lava. When surrounded by stone or cobblestone, a Magma TNT with melt them into lava and turn a few edge pieces into gravel while exploding. The quantities of lava sources blocks may vary depending on amount of stone/cobble blocks within the explosion range as well as the explosion space setup. 
